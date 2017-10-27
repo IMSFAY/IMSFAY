@@ -16,7 +16,7 @@ IMSFAY will make use of the following software projects:
 * [The Platform Framework](http://www.theplatformframework.com)
   * Operating system and project platform
   * This project makes heavy use of the following other projects:
-    * [Qubes OS](http://www.qubes-os.com) - *A reasonably secure operating system*
+    * [Qubes OS](http://www.qubes-os.org) - *A reasonably secure operating system*
     * [Keycloak](http://www.keycloak.org/) - *Open Source Identity and Access Management*
 * [CIDME](https://github.com/JoeThielen/CIDME) - *Contextual IDentity Management Engine*
 * [Bootstrap](https://getbootstrap.com/) - *Open source toolkit for developing with HTML, CSS, and JS.*
