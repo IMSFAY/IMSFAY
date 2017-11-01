@@ -1,6 +1,9 @@
 # IMSFAY
 Home of the Information Management System for Families, Adults, and Youth (IMSFAY).
 
+![Information Management System for Families, Adults, and Youth (IMSFAY)](IMSFAY_Logo-400x400.png "Information Management System for Families, Adults, and Youth (IMSFAY)")
+
+
 IMSFAY is the successor to the 17-year old *Freemed-YiRC* (*Youth in Residential Care*) project.  Not to be confused with the excellent [Freemed](http://freemedsoftware.org/) software, of which Freemed-YiRC forked from in 1999 due to the two projects targetting very different audiences.
 
 IMSFAY is a web-based information system for agencies (both non-profit and profit alike) who specialize in the care of children with behavioral health issues.  The focus of IMSFAY is the state of Ohio (*USA*), as all agencies who've made use of Freemed-YiRC have been Ohio-based and have been licensed and/or accredited by Ohio-based government agencies.
