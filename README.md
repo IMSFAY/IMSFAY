@@ -1,4 +1,16 @@
 # IMSFAY
+
+---
+
+---
+
+# *IMPORTANT NOTE!!!* - THIS PROJECT IS NOT CURRENTLY UNDER ACTIVE DEVELOPMENT!
+
+---
+
+---
+
+
 Home of the Information Management System for Families, Adults, and Youth (IMSFAY).
 
 ![Information Management System for Families, Adults, and Youth (IMSFAY)](IMSFAY_Logo-400x400.png "Information Management System for Families, Adults, and Youth (IMSFAY)")
